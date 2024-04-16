@@ -1992,6 +1992,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "TokenBank"
         ]
     },
     {
